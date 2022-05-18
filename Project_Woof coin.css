@@ -1,0 +1,51 @@
+.inline{
+    display: inline;
+}
+
+#topSect {
+    width: 100%;
+    height: 280px;
+    background: url(Images/Dog%20Background2.jpg);
+    background-color: black;
+    background-size: contain;
+    background-position:right;
+    background-repeat: no-repeat;
+    color: white;
+    padding: 10px;
+   
+}
+
+.dogcoinblock{
+    padding: 0 ! important;
+    width:100%;
+    height: auto;
+    
+}
+
+.IMGFIX{
+    height: auto;
+    width: 100%;
+}
+
+.midsect{
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+
+.LaunchingSoon {
+    margin-top: 15px;
+    padding: 15px;
+    background-color: black;
+    color: white;
+}
+
+textarea{
+    width: 190px;
+}
+
+#references{
+    padding: 15px;
+    margin-left: 15px;
+    margin-right: 15px;   
+}
